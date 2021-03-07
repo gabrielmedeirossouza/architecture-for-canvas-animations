@@ -1,0 +1,17 @@
+{
+  "name": "canvas-audio-player",
+  "version": "1.0.0",
+  "description": "context rendering 2d - canvas",
+  "main": "index.js",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "browser-sync": "^2.26.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "browser-sync --serve . --files .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Medeiros Souza",
+  "license": "MIT"
+}
